@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "It",
+        "author": "Stephen King",
+        "price": 365.76,
+        "img": "https://m.media-amazon.com/images/I/71oWFPril4L._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Harry Potter and The Sorcerer's Stone",
+        "author": "J K Rowling",
+        "price": 592.97,
+        "img": "https://m.media-amazon.com/images/I/91pI+R+GE7L._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Juego de tronos (Canción de hielo y fuego I)",
+        "author": "George R. R. Martin",
+        "price": 430.32,
+        "img": "https://m.media-amazon.com/images/I/61royjw7ITL._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "One Piece Vol 1",
+        "author": "Eiichiro Oda",
+        "price": 276.09,
+        "img": "https://m.media-amazon.com/images/I/718RsRagEeL._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Pedro Páramo",
+        "author": "Juan Rulfo",
+        "price": 144.00,
+        "img": "https://m.media-amazon.com/images/I/814O4bN1ICL._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Los Juegos del Hambre",
+        "author": "Suzanne Collins",
+        "price": 349.00,
+        "img": "https://m.media-amazon.com/images/I/41laItzV2rL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "La llamada de Cthulhu y otros relatos",
+        "author": "H. P. Lovecraft",
+        "price": 252.00,
+        "img": "https://m.media-amazon.com/images/I/51nhKXyT2ZL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "price": 279.00,
+        "img": "https://m.media-amazon.com/images/I/61UiwWy7+rL._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "name": "Mitos Nórdicos",
+        "author": "Neil Gaiman",
+        "price": 348.00,
+        "img": "https://m.media-amazon.com/images/I/81UhJ8OkEXL._SY425_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 10,
+        "name": "Jurassic Park",
+        "author": "Michael Crichton",
+        "price": 399.00,
+        "img": "https://m.media-amazon.com/images/I/815Hs8ViAQL._SY425_.jpg",
+        "quantity": 1
+    }
+]
